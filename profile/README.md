@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://hedronite.com">hedronite.com</a> ·
   <a href="https://github.com/Hedronite/homebrew-tap">Homebrew tap</a> ·
-  <a href="https://github.com/VirtualMachinist">Builder</a>
+  <a href="https://github.com/VirtualMachinist">Systems Architect</a>
 </p>
 
 ---

@@ -1,4 +1,10 @@
-# Hedronite
+<p align="center">
+  <img src="assets/hedronite-lockup-stylized.png" alt="Hedronite stylized mark and wordmark" width="720" />
+</p>
+
+<p align="center"><em>Crystalline Intelligence, Orchestration Refined</em></p>
+
+---
 
 Hedronite builds **agent-native platform tooling** — local-first systems that humans and agents share day to day. The stack is dogfooded on real workstations and clusters, then hardened for scale: reproducible environments, clear custody boundaries, and compatibility where we document it.
 

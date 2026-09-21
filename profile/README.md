@@ -6,13 +6,12 @@
 
 <p align="center">
   <a href="https://hedronite.com">hedronite.com</a> ·
-  <a href="https://github.com/Hedronite/homebrew-tap">Homebrew tap</a> ·
   <a href="https://github.com/VirtualMachinist">Systems Architect</a>
 </p>
 
 ---
 
-Hedronite designs and deploys websites, builds software and training resources for DevSecOps engineers, and develops Hedronaut — an AI platform composed of modular applications.
+Hedronite designs and deploys websites, builds software and training resources for DevSecOps engineers, and develops Hedronaut — an AI platform composed of modular applications for AI workflows and agentic SWE.
 
 ## Hedronaut Platform
 

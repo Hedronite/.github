@@ -21,7 +21,7 @@ Hedronite designs and deploys websites, builds software and training resources f
 | **[geode](https://github.com/Hedronite/geode)** | Encrypted file custody for humans and agents (GDE1 vaults) |
 | **[facet](https://github.com/Hedronite/facet)** | Intelligent API client with recall and hardened security |
 | **[hedrondb](https://github.com/Hedronite/hedrondb)** | Agentic reconciliation tool for intent vs state |
-| **[lapis-lattice](https://github.com/Hedronite/lapis-lattice)** | Vault search + RAG for agentic workflows |
+| **[lapis-lattice](https://github.com/Hedronite/lapis-lattice)** | TUI notes vault with built in RAG for agentic workflows |
 | **[hedronetes-h3s](https://github.com/Hedronite/hedronetes-h3s)** | Agent-native orchestration node for K8s / k3s |
 
 ## DevSecOps Education & Training 

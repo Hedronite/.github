@@ -12,7 +12,7 @@
 
 ---
 
-Hedronite designs and deploys websites, builds software and training for DevSecOps, and engineers Hedronaut — an AI platform composed of modular applications.
+Hedronite designs and deploys websites, builds software and training resources for DevSecOps engineers, and develops Hedronaut — an AI platform composed of modular applications.
 
 ## Hedronaut Platform
 
@@ -35,6 +35,6 @@ Hedronite designs and deploys websites, builds software and training for DevSecO
 
 | Tool | Task |
 |---|---|
-| **[python-gate](https://github.com/Hedronite/python-gate)** | Reproducible Python environment (Nix flake) |
-| **[tetra-cli](https://github.com/Hedronite/tetra-cli)** | World command of the Hedronite platform (Nickel + tetractl) |
+| **[python-gate](https://github.com/Hedronite/python-gate)** | Reproducible Python environment |
+| **[tetra-cli](https://github.com/Hedronite/tetra-cli)** | World command of the Hedronaut platform |
 | **[homebrew-tap](https://github.com/Hedronite/homebrew-tap)** | Homebrew formulas — `brew tap Hedronite/tap` |

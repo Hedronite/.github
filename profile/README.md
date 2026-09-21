@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hedronite-lockup-stylized.png" alt="Hedronite stylized mark and wordmark" width="720" />
+  <img src="https://raw.githubusercontent.com/Hedronite/.github/main/profile/assets/hedronite-lockup-stylized.png" alt="Hedronite stylized mark and wordmark" width="720" />
 </p>
 
 <p align="center"><em>Crystalline Intelligence, Orchestration Refined</em></p>

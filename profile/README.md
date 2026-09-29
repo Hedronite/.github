@@ -27,7 +27,7 @@ Hedronite designs and deploys websites, builds software and training resources f
 
 | Resource | Purpose |
 |---|---|
-| **[hedronos](https://github.com/Hedronite/hedronos)** | Terminal student OS — pulls fullstack-lab for in-app training |
+| **[hedrondojo](https://github.com/Hedronite/hedrondojo)** | Terminal student OS — pulls fullstack-lab for in-app training |
 | **[fullstack-lab](https://github.com/Hedronite/fullstack-lab)** | Fullstack practice lab (dev languages + DevSecOps) using published lessons |
 
 ## Also

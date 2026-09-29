@@ -34,6 +34,7 @@ Hedronite designs and deploys websites, builds software and training resources f
 
 | Tool | Task |
 |---|---|
+| **[rust-tops](https://github.com/Hedronite/rust-tops)** | Rust Testing & Optimization Protocol Suite|
 | **[python-gate](https://github.com/Hedronite/python-gate)** | Reproducible Python environment |
 | **[tetra-cli](https://github.com/Hedronite/tetra-cli)** | World command of the Hedronaut platform |
 | **[homebrew-tap](https://github.com/Hedronite/homebrew-tap)** | Homebrew formulas — `brew tap Hedronite/tap` |
